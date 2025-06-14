@@ -2,7 +2,7 @@
 # **Interactive Medical Chatbot**
 
 This is an interactive chatbot built using **LangChain** and **Llama3:latest**. It answers questions related to medical topics by leveraging a large language model (LLM) that retrieves relevant information from a locally stored **FAISS** index. The app is designed using **Streamlit** to provide a user-friendly interface for interaction.
-![image](https://github.com/user-attachments/assets/c65dcd62-628c-43a4-bf46-b84cd8fee90b)
+
 
 
 ## **Table of Contents**
@@ -201,10 +201,6 @@ If the problem persists, check the error messages in the console for more detail
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
 
 Feel free to make changes and extend the functionality as needed. Let me know if you need further help! 😊
 
